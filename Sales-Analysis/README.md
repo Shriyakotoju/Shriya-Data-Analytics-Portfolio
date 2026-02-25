@@ -43,7 +43,7 @@ The analysis includes **data aggregation, pivot tables, charts, and KPIs** to pr
 
 ## Screenshot
 
-![Sales Analysis Overview](screenshots/sales_analysis_overview.png)
+![Sales Analysis Overview](sales_analysis_overview.png)
 
 ---
 
