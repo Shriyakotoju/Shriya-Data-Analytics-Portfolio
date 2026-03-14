@@ -19,7 +19,7 @@ Excel, SQL
 
 Screenshot:
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Sales%20Analysis/sales_dashboard.png)
 
 ---
 
@@ -38,7 +38,7 @@ Tableau
 
 Screenshot:
 
-![HR Dashboard](hr_dashboard_tableau.png)
+![HR Dashboard](HR-Analytics-Tableau/hr_dashboard_tableau.png)
 
 ---
 
