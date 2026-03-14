@@ -19,7 +19,7 @@ Excel, SQL
 
 Screenshot:
 
-![Sales Dashboard](Sales%20Analysis/sales_dashboard.png)
+![Sales Dashboard](Sales-Analysis/sales_analysis_overview.png)
 
 ---
 
