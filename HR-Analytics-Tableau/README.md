@@ -1,4 +1,4 @@
-# HR Analytics Dashboard (Tableau)
+# HR Analytics Dashboard (Tableau) 
 
 This project analyzes employee data to understand workforce distribution, salary patterns, and performance insights.
 
